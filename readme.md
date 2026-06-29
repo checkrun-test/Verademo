@@ -1,11 +1,11 @@
 # VeraDemo - Blab-a-Gag
 
 ## About
-d
-Blab-a-Gag is a fairly simple forum type application which fallows:d
+bg
+Blab-a-Gag is a fairly simple forum type application which allows:
  - users to post a one-liner joke
- - users to follow the jokes of other users or not (listen or ignore)fffx
- - users to comment on other users messages (heckle)
+ - users to follow the jokes of other users or not (listen or ignore)
+ - users to comment on other users messages (heckle)d
  
 ### URLs
 
@@ -64,4 +64,4 @@ On the first environment deployment, a script will automatically setup the datab
 
 See the `docs` folder
 
-#devbranch1
+# force scans 3
