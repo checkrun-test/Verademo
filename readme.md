@@ -1,6 +1,6 @@
 # VeraDemo - Blab-a-Gag
 d
-## About
+## Aboutd
 bg
 Blab-a-Gag is a fairly simple forum type application which allows:d
  - users to post a one-liner joke
